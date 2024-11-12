@@ -1,5 +1,5 @@
 # DesignPattern
-Trabalhos de design pattern
+Trabalho de design pattern
 
 
 Alunos:
